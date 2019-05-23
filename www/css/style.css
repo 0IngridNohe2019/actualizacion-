@@ -1,0 +1,38 @@
+/* Empty. Add your own CSS if you like */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  background: black url("http://api.thumbr.it/whitenoise-560x800.png?background=0f1517ff&noise=626262&density=67&opacity=15") repeat fixed center;
+}
+.padding{
+	background: url(../img/agu.jpeg);
+	background-position: center;
+	background-size: cover;
+	-webkit-background-size:cover;
+}
+.ad{
+  background: url(../img/adi.jpeg);
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size:cover;
+}
+.tatu{
+  background: url(../img/tabl.jpeg);
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size:cover;
+}
+.jue{
+  background: url(../img/cele.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size:cover;
+}
